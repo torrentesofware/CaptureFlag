@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.reto.torrent"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "backend",
+    "packageName": "com.reto.torrent",
+    "packageFolder": "com/reto/torrent",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDI5MzZmY2MxNjY2OTYxYmM4YWVmNTM2YTY5ZGQ2NmI5Y2M4ZTBmMzAwMTNhNjk4Yzc3N2JiMDAwODA3YmRhNjIyMjZiOTliZGM5NWVjMTc2YjFjYmQ5MmQ4ZDkzOWU3MTg2NDM5ODk0YjYxZjIzY2I5OWVjYWQ0YjlhMThiZGU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1612124308222,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
